@@ -1,0 +1,11 @@
+{
+    "name": "ASpotOfTrain",
+    "version": "0.0.1",
+    "title": "A Spot of Train",
+    "author": "Andreas Karg",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "This mod modifies train physics to make them feel and play more like real ones while keeping them balanced with the vanilla game."
+}
